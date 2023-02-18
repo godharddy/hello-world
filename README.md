@@ -4,5 +4,4 @@
 2. Freelance Video Editor
 3. Sarcasm
  ---
-**[LinkedIn][1]**
-[1]: https://www.linkedin.com/in/godha-reddy/
+[LinkedIn](https://www.linkedin.com/in/godha-reddy/)
