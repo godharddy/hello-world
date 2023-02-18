@@ -1,2 +1,7 @@
 # hello-world
-just writing in the editor a bit about myself. trying using different different Markdown elements.
+# About Myself
+1. My name is Godha Reddy
+2. Freelance Video Editor
+3. Sarcasm
+**[LinkedIn][1]**
+[1]: https://www.linkedin.com/in/godha-reddy/
